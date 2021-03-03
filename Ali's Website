@@ -1,0 +1,40 @@
+<html> 
+    <head>
+    <title>
+        Ali's Website
+    </title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+</head>
+
+<body>
+    <section id= "Welcome" class= "parallax-container">
+    <div class= "parallax-inner">
+        <img src= "Ali's%20Picture.PNG" class= "profile">
+        <h1 id="heading1" onclick="changecolor()"> Welcome to Ali Asif's Website
+    </h1>
+        <h2>
+         I am a young Website Developer!
+        </h2>
+        
+    </div>
+    </section>
+    <section id= "bio">
+    <h1>
+   Hi!!!!!!!!! 
+        </h1>
+        <div class= "line">
+        </div>
+        <p>
+        I am a 10 year old boy. I like Coding and playing sports.
+            In coding I know how to code games and apps. I achieved the game developer and now I am on Web Dev. I used to code on code.org and thunkable. But now I code on brackets which is harder becuase here we type the coding. On thunkable and code.org we use blocks to code.
+            I also like playing video games! My favourite video game is probably "Brawl Stars". But I like so much more different games.<br/><br/>
+        </p>
+        <p>
+         My full name is Ali Asif Mukhammud. I was born in 2010 and im coding this right now in 2020. I have my parents, 2 sisters, 2 grandmas, 1 grandpa and LOOOOOOTTTS of cousins. My other hobbies are as I told you are playing sports, scootering and Rubik cubes. My favourite sport is soccer but I also like Cricket, Bassketball, street hockey and etc.
+        </p>
+    </section>
+    
+
+</body>
+</html>
